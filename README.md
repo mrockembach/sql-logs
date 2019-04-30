@@ -36,4 +36,4 @@ Download da base de dados <a href=https://d17h27t6h515a5.cloudfront.net/topher/2
 <p>Rodar a máquina virtual previamente instalada com <code>vagrant up</code>
 <p>Fazer login <code>vagrant ssh </code>
 <p> Carregar os dados com o comando <code>psql -d news -f newsdata.sql</code>
-<p> Executar o programa no terminal <code> python logs.py </code>  
+<p> Executar o programa no terminal <code> python log.py </code>  
